@@ -1,4 +1,5 @@
 #!/bin/bash
+### FIX NETHUNTER APP CRASHING 
 
 pm grant com.offsec.nethunter android.permission.ACCESS_FINE_LOCATION 
 

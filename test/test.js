@@ -1,5 +1,5 @@
-const a = "ur mom "
-const b = "ur dad "
-const c = "u"
+const a = "can "
+const b = "I "
+const c = "live"
 
 console.log(a+b+c)
