@@ -16,6 +16,7 @@ fastboot flash recovery recovery.img
 fastboot flash dtbo dtbo.img
 fastboot flash vbmeta vbmeta.img
 
+fastboot flash super super.img_sparsechunk.0
 fastboot flash super super.img_sparsechunk.1
 fastboot flash super super.img_sparsechunk.2
 fastboot flash super super.img_sparsechunk.3
