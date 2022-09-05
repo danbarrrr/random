@@ -45,4 +45,5 @@ read -p "Press enter to reboot/ctrl+c to quit"
 fastboot reboot
 
 
-##add lines if needed, correct lines to match files if it doesnt work
+##add lines if needed, correct lines to match files
+##if windows delete comments and change extention to batch.bat
