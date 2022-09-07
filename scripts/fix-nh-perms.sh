@@ -1,4 +1,5 @@
 #!/bin/bash
+### FOR ANDROID
 ### FIX NETHUNTER APP CRASHING 
 
 pm grant com.offsec.nethunter android.permission.ACCESS_FINE_LOCATION 
@@ -18,3 +19,5 @@ pm grant com.offsec.nethunter com.offsec.nhterm.permission.RUN_SCRIPT_NH
 pm grant com.offsec.nethunter com.offsec.nhterm.permission.RUN_SCRIPT_NH_LOGIN
 
 echo "COMPLETE"
+
+## DOESN'T WORK ?? TRY source ./fix-nh-perms.sh
